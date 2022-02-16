@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information about three block arrangements and
   four block arrangements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-007-design-and-manufacturing-i-spring-2009/cca4fb0b0b6a8af7af90607ae0b1d2a7_MIT2_007s09_multipliers.pdf
+file: /media/courses/2-007-design-and-manufacturing-i-spring-2009/cca4fb0b0b6a8af7af90607ae0b1d2a7_MIT2_007s09_multipliers.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MIT2_007s09_multipliers.pdf
 uid: cca4fb0b-0b6a-8af7-af90-607ae0b1d2a7

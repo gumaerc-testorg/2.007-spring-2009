@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Project Description
 uid: 26e0b3f1-8ad3-30cf-3bc7-8ae6d28bdc52
@@ -40,10 +44,10 @@ During the contest, eight control boxes will be in constant use with two spares 
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Table One
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Table TWO
 {{< thclose >}}
 

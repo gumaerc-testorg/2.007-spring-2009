@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Project Kit List
 uid: 63fad2b4-bbb6-7c9e-d88b-5223f24a2634

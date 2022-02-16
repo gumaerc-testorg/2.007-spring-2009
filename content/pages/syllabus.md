@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d4551e68-8a71-c7a1-b4ad-ae45b60b2dd6
 ---
@@ -74,7 +76,7 @@ You will be assigned to one 3 hour "lab" session each week. The word "lab" is in
 Course Objectives
 -----------------
 
-In engineering design, it is helpful to give careful considerations to objectives and to the form in which they are expressed. To the extent possible, the learning objectives of this subject were developed following the guidelines articulated by Richard Felder1 including use of action verbs and inclusion of objectives in levels 4-6 of Bloom's taxonomy of educational objectives (Table 1).
+In engineering design, it is helpful to give careful considerations to objectives and to the form in which they are expressed. To the extent possible, the learning objectives of this subject were developed following the guidelines articulated by Richard Felder{{< sup "1" >}} including use of action verbs and inclusion of objectives in levels 4-6 of Bloom's taxonomy of educational objectives (Table 1).
 
 **Table 1**. Bloom's Taxonomy of Educational Objectives
 
@@ -200,8 +202,8 @@ All homeworks, exams, and other in-lab assignments will be graded on a letter ba
 
 Plusses and minuses will be used in conjunction with the letters in grading all work. The final grade will include plusses and minuses.
 
-Academic Honesty2
------------------
+Academic Honesty{{< sup "2" >}}
+-------------------------------
 
 The fundamental principle of academic integrity is that one must fairly represent the source of the intellectual content of the work one submits for credit. Students are trusted to adhere to this principle and its meaning in the context of this subject as subsequently explained. Official Institute policy regarding academic honesty can be found in the current Bulletin under "Academic Procedures and Institute Regulations".
 
@@ -217,5 +219,5 @@ The fundamental principle of academic integrity is that one must fairly represen
 6.  You **copy** verbatim all or part of a write-up **from another student**. You must cite the person by name. Very little partial credit will be given.
 7.  **Verbatim copying of any material which you submit for credit without reference to the source is considered to be academically dishonest.**
 
-1 [http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html)  
-2 This academic honesty policy is adapted from the policy used in 16.010-040 Unified Engineering
+{{< sup "1" >}} [http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html)  
+{{< sup "2" >}} This academic honesty policy is adapted from the policy used in 16.010-040 Unified Engineering

@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-007-design-and-manufacturing-i-spring-2009/bae5abcd1536176accfc498290e3712a_block.jpg
+file: /media/courses/2-007-design-and-manufacturing-i-spring-2009/bae5abcd1536176accfc498290e3712a_block.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: block.jpg
 uid: bae5abcd-1536-176a-ccfc-498290e3712a

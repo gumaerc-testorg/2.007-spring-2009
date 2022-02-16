@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 ---
@@ -96,7 +99,7 @@ Design MCM and build final car ([PDF]({{< baseurl >}}/resources/mit2_007s09_m04)
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Fabrication of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f05))
 {{< tdclose >}}
 {{< tdopen >}}

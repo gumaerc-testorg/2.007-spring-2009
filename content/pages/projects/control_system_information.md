@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Control System Information
 uid: 22b74578-c8aa-542b-dcf4-6687ab37a2fb
@@ -131,10 +135,10 @@ The contest will use eight control boxes and two spares. Each table will have fo
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 TABLE ONE
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 TABLE TWO
 {{< thclose >}}
 

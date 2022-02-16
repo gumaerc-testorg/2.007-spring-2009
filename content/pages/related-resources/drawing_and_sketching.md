@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: c0d3813c-a4ed-be21-cec9-d5b74598e3b3
 title: 'Design Handbook: Engineering Drawing and Sketching'
 uid: 493f8bdb-7e60-8823-58ea-8e6975dcf2c5

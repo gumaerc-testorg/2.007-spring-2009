@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b8fd463d-ee19-904f-1829-2bbd6b0f4476
 ---
@@ -30,7 +32,7 @@ KEY DATES
 {{< tdopen >}}
 Course introduction, contest overview
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Explore kit and contest
 {{< tdclose >}}
 {{< tdopen >}}
@@ -57,7 +59,7 @@ Problem definition and design
 {{< tdopen >}}
 Actuators - DC motors, servomotors, pneumatics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Build a simple car and preliminary strategy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -99,7 +101,7 @@ Design concept
 {{< tdopen >}}
 Mechanisms (2D kinematic analysis)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Design of most critical module
 {{< tdclose >}}
 {{< tdopen >}}
@@ -132,7 +134,7 @@ Creating CAD assemblies
 {{< tdopen >}}
 Mechanisms (synthesis of 4 bar mechanisms)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Fabrication of most critical module
 {{< tdclose >}}
 {{< tdopen >}}
@@ -159,7 +161,7 @@ HW 2 due
 {{< tdopen >}}
 Quiz 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Fabrication of most critical module
 {{< tdclose >}}
 {{< tdopen >}}
@@ -186,7 +188,7 @@ Creating CAD drawings
 {{< tdopen >}}
 Gears - basics, terminology, involute curve
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Demonstration of most critical module
 {{< tdclose >}}
 {{< tdopen >}}
@@ -213,7 +215,7 @@ Gears - strength, gear trains
 {{< tdopen >}}
 Microcontrollers
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Integration of design
 {{< tdclose >}}
 {{< tdopen >}}
@@ -240,7 +242,7 @@ Lab time
 {{< tdopen >}}
 Sensors
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Demonstration of integrated machine
 {{< tdclose >}}
 {{< tdopen >}}
@@ -267,7 +269,7 @@ Lab time
 {{< tdopen >}}
 Belts / chains / cams
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Design iteration
 {{< tdclose >}}
 {{< tdopen >}}
@@ -309,7 +311,7 @@ Fabrication of improved machine
 {{< tdopen >}}
 Optimization
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Demonstration of improved machine
 {{< tdclose >}}
 {{< tdopen >}}
@@ -357,7 +359,7 @@ Design Festivity at Johnson Rink in the evening (First round after 1 day, and fi
 {{< tdopen >}}
 A review of this year's machines
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Debriefs with section
