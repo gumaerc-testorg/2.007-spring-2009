@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Document
 title: MIT2_007s09_court.pdf
 uid: 494f1ab5-facc-d815-9146-f8236af53333

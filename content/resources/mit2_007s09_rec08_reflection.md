@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Document
 title: MIT2_007s09_rec08_reflection.pdf
 uid: dc2aeba7-3eb1-c3df-5c6c-51ec007f8b43

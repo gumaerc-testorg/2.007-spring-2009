@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6828896f-35c3-3bb9-87bb-5881f12efb3e
 resourcetype: Document
 title: MIT2_007s09_sol_exam01A.pdf
 uid: d576bd29-81ba-0cbf-f8e3-318497469863

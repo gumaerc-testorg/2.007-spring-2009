@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 987b571d-371a-d125-3132-ad5a63f05c18
 resourcetype: Other
 title: 24toothgear_mostly_done.SLDPRT
 uid: 0d30b237-944f-fd6d-8294-15b35e9b5c0c

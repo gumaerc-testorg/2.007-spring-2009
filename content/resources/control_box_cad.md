@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Other
 title: control_box_cad.zip
 uid: ddc30767-f6b5-8865-7cde-15c177ad68d0

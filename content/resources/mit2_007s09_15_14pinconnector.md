@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Document
 title: MIT2_007s09_15_14pinconnector.pdf
 uid: 9d842077-76c6-25c7-7d5e-19044075fee7

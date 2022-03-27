@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Other
 title: parts09.zip
 uid: 16a7fe4e-0b94-84ff-7df4-1a9cb0a27e0e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c366ebb8-3b57-fd42-fa5a-1e2f77ce4532
 resourcetype: Document
 title: MIT2_007s09_lec01_EVT.pdf
 uid: d28a5f0a-a61c-74a0-1e83-861fc2d618ea

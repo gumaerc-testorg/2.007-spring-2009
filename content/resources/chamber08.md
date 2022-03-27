@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 987b571d-371a-d125-3132-ad5a63f05c18
 resourcetype: Other
 title: chamber08.SLDPRT
 uid: 9c4e99f7-2bc1-bb35-27bf-0c8fe79474ae

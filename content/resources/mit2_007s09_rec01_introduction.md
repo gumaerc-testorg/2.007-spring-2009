@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Document
 title: MIT2_007s09_rec01_introduction.pdf
 uid: 0940c97d-060c-d6c1-d053-13e03a75e0b7

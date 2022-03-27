@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c366ebb8-3b57-fd42-fa5a-1e2f77ce4532
 resourcetype: Document
 title: MIT2_007s09_lec14_note.pdf
 uid: bd54e0cf-e824-aa44-15c5-8a9df27d121b

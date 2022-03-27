@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 987b571d-371a-d125-3132-ad5a63f05c18
 resourcetype: Other
 title: window07.SLDPRT
 uid: 274831bf-4171-01ee-49d7-cc37ef7239b1

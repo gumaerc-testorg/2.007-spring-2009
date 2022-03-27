@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Document
 title: MIT2_007s09_metal_bracket.pdf
 uid: f08c4662-4702-532b-6246-c2252c57484f

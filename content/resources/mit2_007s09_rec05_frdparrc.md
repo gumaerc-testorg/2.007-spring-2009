@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Document
 title: MIT2_007s09_rec05_frdparrc.pdf
 uid: 4a3aae1c-27bc-5fa5-cedb-7df484acce90

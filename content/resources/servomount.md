@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c366ebb8-3b57-fd42-fa5a-1e2f77ce4532
 resourcetype: Other
 title: servomount.SLDPRT
 uid: f2f28cd0-260a-f1e1-2ce3-bdaed8bcd5b7

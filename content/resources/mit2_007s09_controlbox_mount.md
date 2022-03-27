@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Document
 title: MIT2_007s09_controlbox_mount.pdf
 uid: 9bb30570-80d5-cd44-4f0f-13b50d476d6b

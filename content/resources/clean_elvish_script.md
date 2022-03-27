@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: clean_elvish_script.jpg
 uid: 840ab383-3775-3cc0-41cf-d1d2a3db1f5e

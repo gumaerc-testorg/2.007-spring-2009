@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Document
 title: MIT2_007s09_rec03_car.pdf
 uid: 683368a3-2109-b735-8397-24ab8a96e90f

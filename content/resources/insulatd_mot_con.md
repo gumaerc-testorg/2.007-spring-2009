@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: insulatd_mot_con.jpg
 uid: 82e2043e-e9d7-cc24-1b30-4a697f62ac5f

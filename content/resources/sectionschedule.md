@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Other
 title: SectionSchedule.xls
 uid: 0a81de5f-7de0-9c5e-60d3-da35bc6ce601

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c366ebb8-3b57-fd42-fa5a-1e2f77ce4532
 resourcetype: Document
 title: MIT2_007s09_lec01_FSAE.pdf
 uid: 95532fc1-3509-20a7-8ff2-8af515ad4d1d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 81556034-db17-3025-ec02-3bf77dd77ad0
 resourcetype: Other
 title: optimization.xls
 uid: 9b0245d1-4bd6-ecd4-4e9e-03512a2d1cb6
