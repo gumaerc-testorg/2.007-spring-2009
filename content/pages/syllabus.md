@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, lecture
+  and lab sessions, meeting times, grading, submission of work, late policy, time
+  commitment and expectations, and academic honesty policies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: d4551e68-8a71-c7a1-b4ad-ae45b60b2dd6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

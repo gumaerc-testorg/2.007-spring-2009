@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, lab activities,
+  quizzes, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: b8fd463d-ee19-904f-1829-2bbd6b0f4476
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-007-design-and-manufacturing-i-spring-2009/8dff17c436bf8d28cb3216f630a49871_insulatedmotorconnectionsweb.jpg
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/8dff17c436bf8d28cb3216f630a49871_insulatedmotorconnectionsweb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: insulatedmotorconnectionsweb.jpg
 uid: 8dff17c4-36bf-8d28-cb32-16f630a49871
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

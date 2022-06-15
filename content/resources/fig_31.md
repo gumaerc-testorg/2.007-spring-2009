@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-007-design-and-manufacturing-i-spring-2009/eaa695f6e07cc5015624c127696a2568_fig_31.jpg
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/eaa695f6e07cc5015624c127696a2568_fig_31.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: c0d3813c-a4ed-be21-cec9-d5b74598e3b3
 resourcetype: Image
 title: fig_31.jpg
 uid: eaa695f6-e07c-c501-5624-c127696a2568
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

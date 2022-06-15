@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-007-design-and-manufacturing-i-spring-2009/2c000d5bad2264318d559528d4a8d5b4_12tooth.dxf
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/2c000d5bad2264318d559528d4a8d5b4_12tooth.dxf
 file_type: text/plain
 learning_resource_types:
 - Assignments

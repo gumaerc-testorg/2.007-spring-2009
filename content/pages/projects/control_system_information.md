@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the control system used for a robotics
+  design contest.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Control System Information
 uid: 22b74578-c8aa-542b-dcf4-6687ab37a2fb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 All images courtesy of Alex Slocum.
@@ -27,18 +33,18 @@ System Overview
 
 The picture below is a schematic overview of the whole system. Two batteries supply power to the control box. The control box distributes that power to the four actuators based on commands it receives from the transmitter. The transmitter receives commands from joysticks/throttles via the microprocessor. For the details of each sub-system, please consult the appropriate sub-section of this page.
 
-![Control box system schematic.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/systemschematic2003.jpg)
+{{< resource "ec6b3c93-7b79-003d-2499-8087a55dfc3f" >}}
 
 Control box system schematic.
 
 Wiring Your Machine{{< anchor "wiring" >}}{{< /anchor >}}
 ---------------------------------------------------------
 
-The above figures indicate how to wire both the Amp 14 pin connector (to connect to your motors) and the 4 pin connector (to connect to your batteries). Please obtain the pin and lead wire ([PDF]({{< baseurl >}}/resources/mit2_007s09_15_14pinconnector)) spec from the fastener cabinet. Pay particular attention to how the batteries are wired! This wiring layout is not done arbitrarily - if the battery plug is wired incorrectly, either the control box will not turn on, or worse, the batteries will short within the plug, which will damage the control box and possibly cause your your batteries to explode!
+The above figures indicate how to wire both the Amp 14 pin connector (to connect to your motors) and the 4 pin connector (to connect to your batteries). Please obtain the pin and lead wire ({{% resource_link 9d842077-76c6-25c7-7d5e-19044075fee7 "PDF" %}}) spec from the fastener cabinet. Pay particular attention to how the batteries are wired! This wiring layout is not done arbitrarily - if the battery plug is wired incorrectly, either the control box will not turn on, or worse, the batteries will short within the plug, which will damage the control box and possibly cause your your batteries to explode!
 
 Incorrectly wiring either plug will result in damage to your machine, batteries, and control box!
 
-![Motor connection photo.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/insulatedmotorconnectionsweb.jpg)
+{{< resource "8dff17c4-36bf-8d28-cb32-16f630a49871" >}}
 
 Motor connection photo.
 
@@ -49,13 +55,13 @@ The staff will not assist with machine debugging until all connections are prope
 The Control Box{{< anchor "control" >}}{{< /anchor >}}
 ------------------------------------------------------
 
-Recommended: Download the Solidworks 2001 solid model of the control box: Control\_Box.zip ([ZIP - 2.0MB]({{< baseurl >}}/resources/control_box)) (The ZIP file contains: 25 .sldprt files, 3 .sldasm files, and 1 .swj file.)
+Recommended: Download the Solidworks 2001 solid model of the control box: Control\_Box.zip ({{% resource_link d9a49620-35d5-0d4f-21f4-e209a688f428 "ZIP - 2.0MB" %}}) (The ZIP file contains: 25 .sldprt files, 3 .sldasm files, and 1 .swj file.)
 
 Contained within the zip file are two different versions of the solid model - one high quality version and one low quality. For almost all purposes of 2.007, the low quality version will suffice. It contains all the necessary dimensions while keeping the computer's required processor speed to a minimum. The high-quality version, however, serves as a useful example of some of the advanced features of Solidworks.
 
 While we have striven to make all the boxes identical to each other and the solid model, some variation is inevitable, however, and it is the student's responsibility to account for it.
 
-![Control box graphic 1.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/controlboxiso1.jpg)
+{{< resource "cf7ff3c1-cfb3-4802-890c-73b6a3911d73" >}}
 
 Control box image 1.
 
@@ -63,7 +69,7 @@ Control box image 1.
   
  
 
-![Control box image 2.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/controlboxiso2.jpg)
+{{< resource "995d7d6f-f531-f6c4-56c0-53ec995a707b" >}}
 
 Control box image 2.
 
@@ -71,7 +77,7 @@ Control box image 2.
   
  
 
-![3 views on control box image.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/3way2003_basic.jpg)
+{{< resource "f2760278-9684-f71e-8e0b-e87e7956b774" >}}
 
 3 views on control box image.
 
@@ -79,7 +85,7 @@ Control box image 2.
   
  
 
-![Control box 2-button image.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/controlboxbuttons2.jpg)
+{{< resource "48444c6d-a0f4-50d7-a01e-44678624fe56" >}}
 
 Control box 2-button image.
 
@@ -87,7 +93,7 @@ Control box 2-button image.
 
 *   **Power Button** - Activates and de-activates the unit. Will glow red when the the batteries are connected and the switch is on. This button will mostly be used during the contest. See the Contest Plan for more information. While the control box is mounted to your machine, the Power switch must be easily accessible by a staff member.
 *   **Radio/Serial Toggle** - This switch determines which input the control box will listen to. If the switch is NOT illuminated, the box will only listen to its radio receiver, thereby allowing the podium joysticks to control the motors on the robot. If ths switch is illuminated, the control box will listen to its serial input (phone jack) for commands to forward on to the speed controllers. Only the autonomous group will be using the serial input! If you are using the podium (radio) and the box is not responding, check to make sure this switch is off (not illuminated).
-*   **Serial Input** - This input uses a standard phone jack to input serial commands to the speed controllers. This is used only by the autonomous group. For more information as to the protocol for serial communication and the wiring diagram for the phone cable, see the MiniSSC page here. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF spec](http://www.seetron.com/docs/ssc2mnl.pdf))
+*   **Serial Input** - This input uses a standard phone jack to input serial commands to the speed controllers. This is used only by the autonomous group. For more information as to the protocol for serial communication and the wiring diagram for the phone cable, see the MiniSSC page here. ([PDF spec](http://www.seetron.com/docs/ssc2mnl.pdf))
 *   **Rubber Bumpers** - It is likely the control boxes will be dropped. Please try to avoid this, but as it will certainly happen, the rubber bumpers are there to damp the impact.
 *   **AMP 14-pin Motor Connector** - Generously donated by Tyco Electronics, this is where your motors are plugged into the control box. It too must be easily accessible when the control box is mounted on your machine. The connector is the most vulnerable part of the control box. It must be protected against impact. See the wiring diagram above to correctly wire up your mating plug.
 *   **AMP 4-Pin Battery Connector** - Generously donated by Tyco Electronics, this is where your batteries are plugged into the control box. It too must be easily accessible when the control box is mounted on your machine. The connector is the most vulnerable part of the control box. It must be protected against impact. See the wiring diagram above to correctly wire up your mating plug.
@@ -113,7 +119,7 @@ Students will control their machines with four joysticks/throttles. The channel 
 
 Remember, driving 2.007 machines is difficult. Plenty of time should be allocated for practice.
 
-![Control podium image.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/controlpodium20022.jpg)
+{{< resource "33f5e7a5-0a27-8653-fda3-03135dd5af7f" >}}
 
 Control podium image.
 
@@ -121,7 +127,7 @@ Control podium image.
   
  
 
-![Transmitter box diagram.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/transmitterbox.jpg)
+{{< resource "c3e1fbb0-210b-b99c-7748-9ed2603ab644" >}}
 
 Transmitter box diagram.
 

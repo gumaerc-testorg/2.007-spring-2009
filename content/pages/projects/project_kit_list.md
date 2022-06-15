@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a list of kit parts for a robotics design contest.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -8,13 +9,17 @@ parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Project Kit List
 uid: 63fad2b4-bbb6-7c9e-d88b-5223f24a2634
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 All images courtesy of Alex Slocum.
 
-The Project Kit Database ([PDF]({{< baseurl >}}/resources/mit2_007s09_kitdatabase)) contains a list of 2.007 parts whose SolidWorks and/or Pro/Engineer models are available for download from the SolidWorks Part Archive ([ZIP - 7.6MB]({{< baseurl >}}/resources/partsarchive)). (The ZIP file contains: 106 .sldprt files, 9 .sldasm files, 2 .ord files, 74 .jpeg files, 3 .dxf files, 1 .cgm file, 2 .prt.5 file, 2 .prt.2 file, 2 .asm.2 files, 48 .prt.1 files, 7 .asm.1 files, and 1 .drw.1 file.)
+The Project Kit Database ({{% resource_link 5a478d4a-8df1-611f-eb12-1525b3459910 "PDF" %}}) contains a list of 2.007 parts whose SolidWorks and/or Pro/Engineer models are available for download from the SolidWorks Part Archive ({{% resource_link 38942c2c-ab71-a094-cbf4-835afe80890b "ZIP - 7.6MB" %}}). (The ZIP file contains: 106 .sldprt files, 9 .sldasm files, 2 .ord files, 74 .jpeg files, 3 .dxf files, 1 .cgm file, 2 .prt.5 file, 2 .prt.2 file, 2 .asm.2 files, 48 .prt.1 files, 7 .asm.1 files, and 1 .drw.1 file.)
 
-Pro/Engineer Configuration ([ZIP]({{< baseurl >}}/resources/proeconfig)) (The ZIP file contains: 4 .frm.1 files, and 1 .pro file.)
+Pro/Engineer Configuration ({{% resource_link 1d39e35a-0453-8eff-8f98-c9a778e20c0d "ZIP" %}}) (The ZIP file contains: 4 .frm.1 files, and 1 .pro file.)
 
 Materials
 ---------
@@ -37,7 +42,7 @@ The following items are not to be used inside the actual machine:
 
 Note: Some items may vary slightly from what is listed on the web page.
 
-**Important**: More information on using the control system is shown on the [control systems]({{< baseurl >}}/pages/projects/control_system_information) page. It is very important that you read this page before designing your robot, as it will require some planning. If you are making a robot with a microcontroller, make sure your electronics will work with the table control system.
+**Important**: More information on using the control system is shown on the {{% resource_link 22b74578-c8aa-542b-dcf4-6687ab37a2fb "control systems" %}} page. It is very important that you read this page before designing your robot, as it will require some planning. If you are making a robot with a microcontroller, make sure your electronics will work with the table control system.
 
 Note on manufacturing parts: Please note that you must have a drawing before using the large machines (milling machines, lathes, water jet, etc). The shop guys will help you process the parts, but they will not make the parts for you. Drawings are not necessary, but are highly suggested, before processing materials using machines in the general area (belt sanders, drill presses, etc).
 

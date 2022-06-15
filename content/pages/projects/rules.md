@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Rules for a contest to design robots to clean up the environment.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Contest Rules
 uid: c549486b-37b4-a80e-74e9-dede14f57384
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Scoring
