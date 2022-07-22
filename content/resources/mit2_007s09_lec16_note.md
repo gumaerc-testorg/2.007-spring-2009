@@ -6,6 +6,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/97ff543da0c010a44bd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about sensors and batteries, low-dropout regulator and force measurement.
-

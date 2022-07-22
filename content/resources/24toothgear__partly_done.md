@@ -5,6 +5,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/9b71820d211064aea5d9
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

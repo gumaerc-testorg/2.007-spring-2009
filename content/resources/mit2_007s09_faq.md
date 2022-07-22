@@ -6,6 +6,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/b874ef1f72779e25006a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about supreme court decisions, and rule clarifications.
-

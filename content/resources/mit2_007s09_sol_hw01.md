@@ -5,6 +5,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/1b8c2966e380f73d4301
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the solution for home work 1.
-

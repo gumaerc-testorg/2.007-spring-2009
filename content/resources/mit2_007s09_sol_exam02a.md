@@ -6,6 +6,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/da95b9ab9fe3ff8dd183
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 11 solution about draft exam on gears, springs, mechanisms, and drawing.
-

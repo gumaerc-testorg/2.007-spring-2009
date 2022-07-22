@@ -6,6 +6,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/7c5d2283475dfd407558
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about printable copy of the 2.007 kit parts.
-

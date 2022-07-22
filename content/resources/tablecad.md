@@ -5,6 +5,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/94878214cb932b8dc5c9
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

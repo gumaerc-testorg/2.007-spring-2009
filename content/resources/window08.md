@@ -5,6 +5,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/1c12b87aa0121ad579a0
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a special file for window mechanism.
-

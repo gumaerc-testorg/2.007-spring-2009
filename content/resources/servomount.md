@@ -5,6 +5,7 @@ file: /courses/2-007-design-and-manufacturing-i-spring-2009/f2f28cd0260af1e12ce3
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for creating CAD drawings.
-
