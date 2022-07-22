@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: Rules for a contest to design robots to clean up the environment.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Contest Rules
 uid: c549486b-37b4-a80e-74e9-dede14f57384
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Scoring
@@ -19,13 +28,13 @@ Scoring is a function of item and location and the possible scoring tasks are li
 
 Based on the above description, the scoring formula is:
 
-> Score=(3Cp+9Cs + ∑Lb)(1+P/4)
+> Score=(3C{{< sub "p" >}}+9C{{< sub "s" >}} + ∑L{{< sub "b" >}})(1+P/4)
 
-Cp - number of pre-crushed cans in your storage slot
+C{{< sub "p" >}} - number of pre-crushed cans in your storage slot
 
-Cs - number of self-crushed cans in your storage slot
+C{{< sub "s" >}} - number of self-crushed cans in your storage slot
 
-Lb - layer in which each bale in the target area resides (1 for bottom layer, 2 for the layer above that, and so on) with the opposite colored bale counting as 3 wherever it is
+L{{< sub "b" >}} - layer in which each bale in the target area resides (1 for bottom layer, 2 for the layer above that, and so on) with the opposite colored bale counting as 3 wherever it is
 
 P - distance in feet the plant has been moved toward your side (max dist=4 ft)
 

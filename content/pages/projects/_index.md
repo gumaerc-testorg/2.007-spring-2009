@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This section provides information on the design project of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Your mission: Clean up planet earth and re-establish plant life.
 
-![A photo of the 2009 competition table, with a row of skyscrapers dividing it into an area for each robot containing cans and bales of trash to be crushed and stacked in the appropriate target area.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/chp_table.jpg)
+{{< resource "99799bfd-4d47-b79f-420e-aa9f69f1943a" >}}
 
 The challenge for this year's 2.007 robots is to clean up the environment. (Image by Dan Frey.)
 
@@ -14,16 +22,16 @@ Robots begin inside their respective starting box (12" high, 22" wide, 10" deep)
 
 The fate of the planet is in your hands!
 
-[Table Description]({{< baseurl >}}/pages/projects/tablespecs)
+{{% resource_link ab27deef-bc13-9c67-9dd9-c4210f9ca824 "Table Description" %}}
 
-[Contest Rules]({{< baseurl >}}/pages/projects/rules)
+{{% resource_link c549486b-37b4-a80e-74e9-dede14f57384 "Contest Rules" %}}
 
 Parts and Equipment
 -------------------
 
-Project Kit List ([PDF]({{< baseurl >}}/resources/mit2_007s09_kit))  
-SolidWorks Parts Archive ([ZIP]({{< baseurl >}}/resources/parts09)) (This ZIP file contains: 36 .sldprt files, 1 .rpt file, 1 .xlo file, 1 .igs file and 1 .sldasm file.)  
-Notes on Lithium Polymer Batteries ([PDF]({{< baseurl >}}/resources/mit2_007s09_lipo))
+Project Kit List ({{% resource_link 7c5d2283-475d-fd40-7558-411930bb55ec "PDF" %}})  
+SolidWorks Parts Archive ({{% resource_link 16a7fe4e-0b94-84ff-7df4-1a9cb0a27e0e "ZIP" %}}) (This ZIP file contains: 36 .sldprt files, 1 .rpt file, 1 .xlo file, 1 .igs file and 1 .sldasm file.)  
+Notes on Lithium Polymer Batteries ({{% resource_link 1acdd874-030b-4002-de18-c026b881109d "PDF" %}})
 
 Milestones
 ----------
@@ -49,10 +57,10 @@ MILESTONES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Explore kit & contest ([PDF]({{< baseurl >}}/resources/mit2_007s09_f01))
+Explore kit & contest ({{% resource_link 360f46eb-9802-f167-6f1f-09923d4ee4b6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Kit and contest exploration ([PDF]({{< baseurl >}}/resources/mit2_007s09_m01))
+Kit and contest exploration ({{% resource_link 179e71d0-e0a3-e40c-d42d-bab1fcfde7af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,10 +69,10 @@ Kit and contest exploration ([PDF]({{< baseurl >}}/resources/mit2_007s09_m01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Build a simple car & preliminary strategy ([PDF]({{< baseurl >}}/resources/mit2_007s09_f02))
+Build a simple car & preliminary strategy ({{% resource_link 08b64beb-06a6-dc15-354e-fdd029f177f7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Develop strategy and work toward final car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m02))
+Develop strategy and work toward final car design ({{% resource_link 8e95c54a-8722-ad81-bfad-b61701e2e8b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,10 +81,10 @@ Develop strategy and work toward final car design ([PDF]({{< baseurl >}}/resourc
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Design concept ([PDF]({{< baseurl >}}/resources/mit2_007s09_f03))
+Design concept ({{% resource_link a3301e32-315c-aecd-0a36-f41b13b0a432 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Develop concept and finalize car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m03))
+Develop concept and finalize car design ({{% resource_link 47b7c701-231b-a8a0-a99e-d848a7032f22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,10 +93,10 @@ Develop concept and finalize car design ([PDF]({{< baseurl >}}/resources/mit2_00
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Design of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f04))
+Design of most critical module ({{% resource_link 4c691a72-9e4c-e720-f140-50e845347ed3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Design MCM and build final car ([PDF]({{< baseurl >}}/resources/mit2_007s09_m04))
+Design MCM and build final car ({{% resource_link 5a403a7a-69b6-b8f6-5588-a46f63afb07b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,11 +104,11 @@ Design MCM and build final car ([PDF]({{< baseurl >}}/resources/mit2_007s09_m04)
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
-Fabrication of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f05))
+{{< tdopen rowspan="2" >}}
+Fabrication of most critical module ({{% resource_link 7f759113-c1dd-3587-710a-bbed9c8865f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Fabricate MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m05))
+Fabricate MCM ({{% resource_link cfc1aab4-ff32-98e8-8654-5754685e481b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +117,7 @@ Fabricate MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m05))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Complete MCM fabrication ([PDF]({{< baseurl >}}/resources/mit2_007s09_m06))
+Complete MCM fabrication ({{% resource_link 25bf2bea-43be-9dcb-0e37-162c0f04b8ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,10 +126,10 @@ Complete MCM fabrication ([PDF]({{< baseurl >}}/resources/mit2_007s09_m06))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Demonstration of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f06))
+Demonstration of most critical module ({{% resource_link 049e3bfc-8d36-7cf8-3930-66ab627b0f75 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Demonstration of MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m07))
+Demonstration of MCM ({{% resource_link ac00d1f1-7ad3-9790-7ac1-a498273a0a27 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,10 +138,10 @@ Demonstration of MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Integration of design ([PDF]({{< baseurl >}}/resources/mit2_007s09_f07))
+Integration of design ({{% resource_link bfec9e49-2713-a858-3a11-13c004e7fecd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Completion plan ([PDF]({{< baseurl >}}/resources/mit2_007s09_m08))
+Completion plan ({{% resource_link 0819766a-5599-c13c-76e8-f9293f662f20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +150,7 @@ Completion plan ([PDF]({{< baseurl >}}/resources/mit2_007s09_m08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Demonstration of integrated machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f08))
+Demonstration of integrated machine ({{% resource_link f8e91aff-3d88-ac1e-1db0-f18302e0259c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -154,7 +162,7 @@ Demonstration of integrated machine ([PDF]({{< baseurl >}}/resources/mit2_007s09
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Design iteration ([PDF]({{< baseurl >}}/resources/mit2_007s09_f09))
+Design iteration ({{% resource_link a6e97c05-21dd-e4ff-c854-b776265045b3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +174,7 @@ Design iteration ([PDF]({{< baseurl >}}/resources/mit2_007s09_f09))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Fabrication of improved machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f10))
+Fabrication of improved machine ({{% resource_link a4f76273-c925-979c-d323-e989d173e711 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -202,7 +210,7 @@ Final refinements
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefs with section ([PDF]({{< baseurl >}}/resources/mit2_007s09_f11))
+Debriefs with section ({{% resource_link 3893b4a7-799b-8d36-dec9-80655eed142d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -219,16 +227,16 @@ The 2.007 theme changes every year to provide an ongoing challenge for students 
 
 2003 Project: The Two Tables
 
-*   [Project Description]({{< baseurl >}}/pages/projects/project_description)
-*   [Project Kit List]({{< baseurl >}}/pages/projects/project_kit_list)
-*   [Control System Information]({{< baseurl >}}/pages/projects/control_system_information)
+*   {{% resource_link 6aa844fd-3d11-403a-cf2c-14f52202a5a0 "Project Description" %}}
+*   {{% resource_link 63fad2b4-bbb6-7c9e-d88b-5223f24a2634 "Project Kit List" %}}
+*   {{% resource_link 22b74578-c8aa-542b-dcf4-6687ab37a2fb "Control System Information" %}}
 
 2005 Project: Tic Tech Toe
 
-*   [Project Description]({{< baseurl >}}/pages/projects/project_description_2005)
-*   [Contest Rules]({{< baseurl >}}/pages/projects/contest_rules_05)
-*   [Parts and Equipment]({{< baseurl >}}/pages/projects/parts_and_equipment_05)
-*   [Using the Control System]({{< baseurl >}}/pages/projects/using_the_control_system)
+*   {{% resource_link 26e0b3f1-8ad3-30cf-3bc7-8ae6d28bdc52 "Project Description" %}}
+*   {{% resource_link f9e9cf6b-b81f-5c3a-3cb3-0c48c111c0f8 "Contest Rules" %}}
+*   {{% resource_link b96f1c91-4fb0-b17f-e713-6a5fd113de4c "Parts and Equipment" %}}
+*   {{% resource_link fa8af559-9815-ed4c-985d-5a5148cd3f34 "Using the Control System" %}}
 *   Contest Video: The 2005 contest Tic Tech Toe contest was videotaped over two nights, Ses #24 and the next day.
     
     First Round ([MP4 - 395MB](https://archive.org/download/MIT2.007S09/ocw-2.007-first-round-12may2005-220k.mp4))

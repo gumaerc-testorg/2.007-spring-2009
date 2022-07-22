@@ -1,15 +1,25 @@
 ---
 content_type: page
+description: This section provides a description of the table used for a contest to
+  design robots to clean up the environment.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 title: Table Description
 uid: ab27deef-bc13-9c67-9dd9-c4210f9ca824
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
   
  
 
-![A CAD model of the competition table, showing the starting boxes, skyscrapers, tunnel between areas, and plant.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/tablemodel.jpg)
+{{< resource "e90ad962-9c2f-829c-a0ee-95443e65535e" >}}
 
   
  
@@ -173,4 +183,4 @@ Crushed can
 
 {{< anchor "model" >}}{{< /anchor >}}
 
-A SolidWorks model of the contest table is available for reference. ([ZIP]({{< baseurl >}}/resources/tablecad))
+A SolidWorks model of the contest table is available for reference. ({{% resource_link 94878214-cb93-2b8d-c5c9-323be48b5968 "ZIP" %}})
