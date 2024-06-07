@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/bb188c4ed0ba0d1949c77f1f03350116_controlbox_front.jpg
+file_size: 49325
 file_type: image/jpeg
 image_metadata:
   caption: ''

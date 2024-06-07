@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains practice exam questions for the course.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/e7aed0392dd0e5b02888f914edb1b5f8_MIT2_007s09_exam01B.pdf
+file_size: 632117
 file_type: application/pdf
 learning_resource_types:
 - Exams

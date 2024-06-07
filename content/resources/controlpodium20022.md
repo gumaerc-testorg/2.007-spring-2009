@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/33f5e7a50a278653fda303135dd5af7f_controlpodium20022.jpg
+file_size: 68666
 file_type: image/jpeg
 image_metadata:
   caption: ''

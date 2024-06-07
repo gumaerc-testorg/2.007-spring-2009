@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about quick debug sheet.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/9cab2f4c541b3914439387d776f1a323_MIT2_007s09_controlsystdebug.pdf
+file_size: 81271
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about thoughts on design notebooks.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/28ebb433182683667930d23fdd21cae0_MIT2_007s09_rec04_notebook.pdf
+file_size: 122703
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for example schedule.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/0a81de5f7de09c5e60d3da35bc6ce601_SectionSchedule.xls
+file_size: 192512
 file_type: application/msword
 learning_resource_types:
 - Recitations
