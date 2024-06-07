@@ -3,6 +3,7 @@ content_type: resource
 description: 'The ZIP file contains: 25 .sldprt files, 3 .sldasm files, and 1 .swj
   file.'
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/ddc30767f6b588657cde15c177ad68d0_control_box_cad.zip
+file_size: 581353
 file_type: application/zip
 learning_resource_types:
 - Projects

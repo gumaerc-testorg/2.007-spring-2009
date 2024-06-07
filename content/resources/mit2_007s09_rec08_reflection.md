@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about final notebook submission and
   reflection, suggestions on elements you may choose to include in your reflection.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/dc2aeba73eb1c3df5c6c51ec007f8b43_MIT2_007s09_rec08_reflection.pdf
+file_size: 110344
 file_type: application/pdf
 learning_resource_types:
 - Recitations

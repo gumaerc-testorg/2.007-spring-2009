@@ -2,6 +2,7 @@
 content_type: resource
 description: This is special file for chamber.
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/ead61e074b7fb8635b9806595576136c_chamber07.SLDPRT
+file_size: 119808
 file_type: application/msword
 learning_resource_types:
 - Assignments

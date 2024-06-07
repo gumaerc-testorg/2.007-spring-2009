@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/6ee74d9663171a41240136aad6c9496a_tablemodel_thumb.jpg
+file_size: 2031
 file_type: image/jpeg
 image_metadata:
   caption: ''

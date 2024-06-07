@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/afe1ad58cab3109986ac589deb1ff729_controlpodmpower.jpg
+file_size: 21029
 file_type: image/jpeg
 image_metadata:
   caption: ''
