@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/94878214cb932b8dc5c9323be48b5968_TableCAD.zip
+file_size: 6012903
 file_type: application/zip
 learning_resource_types:
 - Projects

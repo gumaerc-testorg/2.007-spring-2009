@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/d408687bf6899e77d7dfd0cf60cb218d_motor_plug.jpg
+file_size: 51987
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/d02316bc18d625a0e0969b7d937b8cfb_24toothgears_with_string.SLDPRT
+file_size: 510976
 file_type: application/msword
 learning_resource_types:
 - Assignments

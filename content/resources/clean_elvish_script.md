@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-007-design-and-manufacturing-i-spring-2009/840ab38337753cc041cfd1d2a3db1f5e_clean_elvish_script.jpg
+file_size: 16452
 file_type: image/jpeg
 image_metadata:
   caption: ''
