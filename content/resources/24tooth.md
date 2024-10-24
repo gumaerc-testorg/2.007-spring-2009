@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/94fe3a9907658caf5075698045248f8a_24tooth.dxf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/94fe3a9907658caf5075698045248f8a_24tooth.dxf
 file_size: 35921
 file_type: text/plain
 learning_resource_types:

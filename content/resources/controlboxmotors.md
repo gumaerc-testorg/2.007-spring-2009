@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/266890fd7941793305d46d8f9b861e16_controlboxmotors.jpg
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/266890fd7941793305d46d8f9b861e16_controlboxmotors.jpg
 file_size: 30565
 file_type: image/jpeg
 image_metadata:

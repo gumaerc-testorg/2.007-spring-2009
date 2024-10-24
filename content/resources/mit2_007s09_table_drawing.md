@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about table overview drawing.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/209801d88ca117d527af69e6563e92ce_MIT2_007s09_table_drawing.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/209801d88ca117d527af69e6563e92ce_MIT2_007s09_table_drawing.pdf
 file_size: 27298
 file_type: application/pdf
 learning_resource_types:

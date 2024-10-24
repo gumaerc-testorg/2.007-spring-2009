@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about gather materials, components,
   tools and fabrication steps.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/683368a32109b735839724ab8a96e90f_MIT2_007s09_rec03_car.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/683368a32109b735839724ab8a96e90f_MIT2_007s09_rec03_car.pdf
 file_size: 1457375
 file_type: application/pdf
 learning_resource_types:
