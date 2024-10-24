@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem exploration and optimization.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/9b0245d14bd6ecd44e9e03512a2d1cb6_optimization.xls
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/9b0245d14bd6ecd44e9e03512a2d1cb6_optimization.xls
 file_size: 25600
 file_type: application/msword
 learning_resource_types:
