@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems and practice questions for the course.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/fc270775f354f7f6ee0c0314517e171c_MIT2_007s09_exam01A.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/fc270775f354f7f6ee0c0314517e171c_MIT2_007s09_exam01A.pdf
 file_size: 447457
 file_type: application/pdf
 learning_resource_types:
