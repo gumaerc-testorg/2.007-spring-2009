@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Use the adhesive on the back
   of the magnets to assemble the mount according to this drawing.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/9bb3057080d5cd444f0f13b50d476d6b_MIT2_007s09_controlbox_mount.pdf
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/9bb3057080d5cd444f0f13b50d476d6b_MIT2_007s09_controlbox_mount.pdf
 file_size: 33331
 file_type: application/pdf
 learning_resource_types:

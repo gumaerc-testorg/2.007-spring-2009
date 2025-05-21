@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution for home work 3.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/bd44476b9123456c5a282ec5f46fc969_MIT2_007s09_sol_hw03.pdf
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/bd44476b9123456c5a282ec5f46fc969_MIT2_007s09_sol_hw03.pdf
 file_size: 529666
 file_type: application/pdf
 learning_resource_types:

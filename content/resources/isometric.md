@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/d247d016e67da9ab3559ccfee1bd181b_isometric.jpg
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/d247d016e67da9ab3559ccfee1bd181b_isometric.jpg
 file_size: 33272
 file_type: image/jpeg
 image_metadata:
