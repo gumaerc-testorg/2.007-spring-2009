@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/9b71820d211064aea5d989fde2a708cf_24toothgear__partly_done.SLDPRT
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/9b71820d211064aea5d989fde2a708cf_24toothgear__partly_done.SLDPRT
 file_size: 165888
 file_type: application/msword
 learning_resource_types:

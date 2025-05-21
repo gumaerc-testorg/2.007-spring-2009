@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/8dff17c436bf8d28cb3216f630a49871_insulatedmotorconnectionsweb.jpg
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/8dff17c436bf8d28cb3216f630a49871_insulatedmotorconnectionsweb.jpg
 file_size: 20461
 file_type: image/jpeg
 image_metadata:

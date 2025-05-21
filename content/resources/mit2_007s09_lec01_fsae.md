@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about international collegiate design,
   design, fabricate, and test a subsystem of the car.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/95532fc1350920a78ff28af515ad4d1d_MIT2_007s09_lec01_FSAE.pdf
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/95532fc1350920a78ff28af515ad4d1d_MIT2_007s09_lec01_FSAE.pdf
 file_size: 285375
 file_type: application/pdf
 learning_resource_types:

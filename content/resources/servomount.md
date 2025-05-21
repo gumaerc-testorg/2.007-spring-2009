@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for creating CAD drawings.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/f2f28cd0260af1e12ce3bdaed8bcd5b7_servomount.SLDPRT
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/f2f28cd0260af1e12ce3bdaed8bcd5b7_servomount.SLDPRT
 file_size: 148480
 file_type: application/msword
 learning_resource_types:
