@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for CAD parts.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/0bbef5a642bcb8bcd16c76327607bf45_lec09_parts.zip
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/0bbef5a642bcb8bcd16c76327607bf45_lec09_parts.zip
 file_size: 343876
 file_type: application/zip
 learning_resource_types:

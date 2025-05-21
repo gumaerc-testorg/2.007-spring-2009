@@ -2,7 +2,7 @@
 content_type: resource
 description: Image of the back of the control box for a design and manufacturing project
   showing the status indicators, power LED, and motor status indicators.
-file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/cd71089363d320b74707141f7517a6e7_control_box_back.jpg
+file: /courses/2-007-design-and-manufacturing-i-spring-2009/cd71089363d320b74707141f7517a6e7_control_box_back.jpg
 file_size: 82194
 file_type: image/jpeg
 image_metadata:
