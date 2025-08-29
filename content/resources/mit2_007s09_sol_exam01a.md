@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 6 solution about practice exam on drawing, CAD,
   motors, pneumatics, and mechanisms.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/d576bd2981ba0cbff8e3318497469863_MIT2_007s09_sol_exam01A.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/d576bd2981ba0cbff8e3318497469863_MIT2_007s09_sol_exam01A.pdf
 file_size: 478997
 file_type: application/pdf
 learning_resource_types:
