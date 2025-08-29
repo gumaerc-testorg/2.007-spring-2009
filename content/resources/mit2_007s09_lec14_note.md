@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about the homework board, the basic
   stamp editor, make an LED flash and memory and variable types.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/bd54e0cfe824aa4415c58a9df27d121b_MIT2_007s09_lec14_note.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/bd54e0cfe824aa4415c58a9df27d121b_MIT2_007s09_lec14_note.pdf
 file_size: 999901
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about printable copy of the 2.007
   kit parts.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/7c5d2283475dfd407558411930bb55ec_MIT2_007s09_kit.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/7c5d2283475dfd407558411930bb55ec_MIT2_007s09_kit.pdf
 file_size: 204810
 file_type: application/pdf
 learning_resource_types:

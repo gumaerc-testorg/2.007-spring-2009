@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 11 solution of exam on gears, springs, sensors,
   programming, drawing, etc.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/e9c020dc00f6d6f5d42e1d26497be0fc_MIT2_007s09_sol_exam02.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/e9c020dc00f6d6f5d42e1d26497be0fc_MIT2_007s09_sol_exam02.pdf
 file_size: 922540
 file_type: application/pdf
 learning_resource_types:
