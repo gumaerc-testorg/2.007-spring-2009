@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about print out drawing and tape to
   sheet metal as a guide.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/f08c46624702532b6246c2252c57484f_MIT2_007s09_metal_bracket.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/f08c46624702532b6246c2252c57484f_MIT2_007s09_metal_bracket.pdf
 file_size: 35703
 file_type: application/pdf
 learning_resource_types:

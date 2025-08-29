@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about supreme court decisions, and
   rule clarifications.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/b874ef1f72779e25006ab00598433051_MIT2_007s09_FAQ.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/b874ef1f72779e25006ab00598433051_MIT2_007s09_FAQ.pdf
 file_size: 127213
 file_type: application/pdf
 learning_resource_types:

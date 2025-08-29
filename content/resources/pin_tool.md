@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/63bd36b421296236695f621abffb4e96_pin_tool.jpg
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/63bd36b421296236695f621abffb4e96_pin_tool.jpg
 file_size: 11564
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution about drawing, CAD, motors, pneumatics,
   and mechanisms with solutions.
-file: /courses/2-007-design-and-manufacturing-i-spring-2009/559019a24f0c8a3729570785aa963939_MIT2_007s09_sol_exam01.pdf
+file: /ol-ocw-studio-app/courses/2-007-design-and-manufacturing-i-spring-2009/559019a24f0c8a3729570785aa963939_MIT2_007s09_sol_exam01.pdf
 file_size: 629447
 file_type: application/pdf
 learning_resource_types:
