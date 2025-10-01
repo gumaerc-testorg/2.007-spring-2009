@@ -29,7 +29,7 @@
     "website": "2-007-design-and-manufacturing-i-spring-2009"
   },
   "course_title": "Design and Manufacturing I",
-  "course_description": "Welcome to 2.007! This course is a first subject in engineering design. With your help, this course will be a great learning experience exposing you to interesting material, challenging you to think deeply, and providing skills useful in professional practice. A major element of the course is design of a robot to participate in a challenge that changes from year to year. This year, the theme is cleaning up the planet as inspired by the movie _Wall-E_.\n\nFrom its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.\u00a0 See this [MIT News story](http://web.mit.edu/newsoffice/2011/timeline-2007-0209.html) for more background, a photo gallery, and videos about this course.\n",
+  "course_description": "Welcome to 2.007! This course is a first subject in engineering design. With your help, this course will be a great learning experience exposing you to interesting material, challenging you to think deeply, and providing skills useful in professional practice. A major element of the course is design of a robot to participate in a challenge that changes from year to year. This year, the theme is cleaning up the planet as inspired by the movie _Wall-E_.\n\nFrom its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.\u00a0 See this {{% resource_link \"b69769eb-baa8-4a22-ab19-8e48911c2bc0\" \"MIT News story\" %}} for more background, a photo gallery, and videos about this course.\n",
   "department_numbers": [
     "2"
   ],
