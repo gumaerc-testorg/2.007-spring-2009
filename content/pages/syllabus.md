@@ -226,5 +226,5 @@ The fundamental principle of academic integrity is that one must fairly represen
 6.  You **copy** verbatim all or part of a write-up **from another student**. You must cite the person by name. Very little partial credit will be given.
 7.  **Verbatim copying of any material which you submit for credit without reference to the source is considered to be academically dishonest.**
 
-{{< sup "1" >}} [http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html)  
+{{< sup "1" >}} {{% resource_link "7528ce54-0254-4766-a59e-39d37930eebf" "http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/Objectives.html" %}}  
 {{< sup "2" >}} This academic honesty policy is adapted from the policy used in 16.010-040 Unified Engineering

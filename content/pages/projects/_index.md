@@ -239,6 +239,6 @@ The 2.007 theme changes every year to provide an ongoing challenge for students 
 *   {{% resource_link fa8af559-9815-ed4c-985d-5a5148cd3f34 "Using the Control System" %}}
 *   Contest Video: The 2005 contest Tic Tech Toe contest was videotaped over two nights, Ses #24 and the next day.
     
-    First Round ([MP4 - 395MB](https://archive.org/download/MIT2.007S09/ocw-2.007-first-round-12may2005-220k.mp4))
+    First Round ({{% resource_link "babaeebb-c254-4444-afbe-40e6c22192b7" "MP4 - 395MB" %}})
     
-    Finals ([MP4 - 638MB](https://archive.org/download/MIT2.007S09/ocw-2.007-finals-13may2005-220k.mp4))
+    Finals ({{% resource_link "88d4b2c9-fcbd-4a45-8bf0-8464c3ca1b68" "MP4 - 638MB" %}})
