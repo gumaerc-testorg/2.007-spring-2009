@@ -898,7 +898,7 @@ available as needed in lab
 4 max.
 {{< tdclose >}}
 {{< tdopen >}}
-double shielded ball bearings - [specs](http://www.rbcbearings.com/ballbearings/detail.asp?PartNumber=402-2V)
+double shielded ball bearings - {{% resource_link "c31edd38-d14f-4294-ad6e-7d2e949dad71" "specs" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

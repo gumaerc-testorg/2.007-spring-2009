@@ -13,12 +13,12 @@ video_metadata:
 ---
 ## On Design
 
-Slocum, Alex. [*Fundamentals of Design*](http://pergatory.mit.edu/resources/FUNdaMENTALS.html).
+Slocum, Alex. {{% resource_link "c1d56ff3-a0af-4022-b614-44d2066d4a95" "*Fundamentals of Design*" %}}.
 
 Blanco, Ernesto E., et al. "{{% resource_link "493f8bdb-7e60-8823-58ea-8e6975dcf2c5" "Design Handbook: Engineering Drawing and Sketching" %}}." (Courtesy of Ernesto Blanco et al. Used with permission.)
 
 ## How-To and Specs
 
-[HS-311 Specification](https://www.servocity.com/hs-311-servo/)   
-4-TH 4-Channel FM Radio Control System Manual ( [PDF](http://www.towerhobbies.com/products/pdf/towj41.pdf))   
-"\[How to Glue\] [This to That](http://www.thistothat.com/)."
+{{% resource_link "ac75e081-6220-4097-9e5f-29d3597c826d" "HS-311 Specification" %}}   
+4-TH 4-Channel FM Radio Control System Manual ( {{% resource_link "eb2c1977-b84c-4606-af4e-20d90b4865f7" "PDF" %}})   
+"\[How to Glue\] {{% resource_link "2c4bdb83-6300-4400-80e7-979871b76505" "This to That" %}}."
